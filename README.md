@@ -85,7 +85,18 @@
 
 #### 22.01.25
 
-- 그리디 > 프로그래머스 > 무지의 먹방 라이브 [카카오 4](https://programmers.co.kr/learn/courses/30/lessons/42891)
-- 구현 > 백준 > 럭키 스트레이트 [브론즈 2](https://www.acmicpc.net/problem/18406)
+- 그리디 > 프로그래머스 > 무지의 먹방 라이브 [(카카오 4)](https://programmers.co.kr/learn/courses/30/lessons/42891)
+- 구현 > 백준 > 럭키 스트레이트 [(브론즈 2)](https://www.acmicpc.net/problem/18406)
 
-- 구현 > 프로그래머스 > 문자열 압축 [카카오](https://programmers.co.kr/learn/courses/30/lessons/60057) 
+- 구현 > 프로그래머스 > 문자열 압축 [(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60057) 
+- 구현 > 프로그래머스 > 자물쇠와 열쇠 [(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60059)
+
+#### 22.01.26
+
+- 구현 > 백준 > 뱀 [(골드 5)](https://www.acmicpc.net/problem/3190)  😇
+- BFS > 백준 > 특정 거리의 도시 찾기 [(실버 2)](https://www.acmicpc.net/problem/18352)
+
+#### 22.01.28
+
+- BFS > 백준 > 연구소 [(골드 5)](https://www.acmicpc.net/problem/14502)
+
