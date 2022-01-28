@@ -98,5 +98,11 @@
 
 #### 22.01.28
 
-- BFS > 백준 > 연구소 [(골드 5)](https://www.acmicpc.net/problem/14502)
+- BFS/DFS > 백준 > 연구소 [(골드 5)](https://www.acmicpc.net/problem/14502)
+- BFS/DFS > 프로그래머스 > 괄호변환 [(카카오)](https://programmers.co.kr/learn/courses/30/lessons/60058)
+- BFS/DFS > 백준 > 연산자 끼워넣기 [(실버 1)](https://www.acmicpc.net/problem/14888)
+- 정렬 > 백준 > 국영수 [(실버 4)](https://www.acmicpc.net/problem/10825)
+- 정렬/힙 > 프로그래머스 > 실패율 [(카카오)](https://programmers.co.kr/learn/courses/30/lessons/42889)
 
+- 정렬/힙 > 백준 > 카드 정렬하기 [(골드 4)](https://www.acmicpc.net/problem/1715)
+- 이진탐색 > 백준 > 공유기 설치 [(골드 5)](https://www.acmicpc.net/problem/2110)
