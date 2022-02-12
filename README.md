@@ -81,7 +81,7 @@
 
 #### [22.01.24](./220124.md)
 
-- 그리디 > 백준 > 문자열 뒤집기 [(실버 5)](백준 문자열 뒤집기)
+- 그리디 > 백준 > 문자열 뒤집기 [(실버 5)](https://www.acmicpc.net/problem/1439)
 
 #### [22.01.25](./220125.md)
 
@@ -216,4 +216,25 @@
 
 - 1130 - 1137 (7) / 프로그래머스 > 유형연습 > DP > 도둑질 (Lv 4)
 
-- 
+- 1200 - 1242 (42) / 백준 > 뱀 [[골드 5]](https://www.acmicpc.net/problem/3190)
+
+- 1315 - 1449 (X) / 프로그래머스 > 외벽점검 [[카카오]](https://programmers.co.kr/learn/courses/30/lessons/60062)
+
+- 1455 - 1619 (X) / 프로그래머스 > 블록 이동하기 [[카카오]](https://programmers.co.kr/learn/courses/30/lessons/60063)
+
+- 1702 - 1735 (33) / (프로그래머스 > 자물쇠와 열쇠 [[카카오]](https://programmers.co.kr/learn/courses/30/lessons/60059)
+
+- 1740 - 1816 (36) / 프로그래머스 > 아이템줍기 [[Lv 3]](https://programmers.co.kr/learn/courses/30/lessons/87694)
+
+#### [22.02.12](./220212.md)
+
+- 1155 - 1227 (X) / 프로그래머스 > 단어 퍼즐 [[Lv 4]](https://programmers.co.kr/learn/courses/30/lessons/12983)
+
+- 1230 - 1339 (X) / 프로그래머스 > 사칙연산 [[Lv 4]](https://programmers.co.kr/learn/courses/30/lessons/1843)
+
+- 1630 - 1655 (X) / 프로그래머스 > 모두 0으로 만들기 [[Lv 3]](https://programmers.co.kr/learn/courses/30/lessons/76503)
+
+- 1655 - 1724 (29) 프로그래머스 > 110 옮기기 [[Lv 3]](https://programmers.co.kr/learn/courses/30/lessons/77886)
+
+- 2200 - (X) / 프로그래머스 > 퍼즐조각 채우기 [[Lv 3]](https://programmers.co.kr/learn/courses/30/lessons/84021)
+
