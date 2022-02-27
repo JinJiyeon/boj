@@ -289,3 +289,53 @@
 
 - 1130 - 1212 (42) / 프로그래머스 > 카카오2019 > 후보키 (Lv 2)
 - 1255 - 1503 (X) / 프로그래머스 > 카카오2019 > 길찾기 게임 (Lv 3)
+
+
+
+#### [22.02.22](./220222.md)
+
+- 1111 - 1120 (9) / 프로그래머스 > 카카오인턴2021 > 숫자 문자열과 영단어 (Lv 1)
+- 1120 - 1147 (X) / 프로그래머스 > 카카오인턴2021 > 거리두기 확인하기 (Lv 2)
+- 1401 - 1518 (X) / 프로그래머스 > 카카오인턴2021 > 표편집 (Lv 3) 🧐
+
+
+
+#### [22.02.23](./220223.md)  
+
+- 1316 - 1340 (24) / 프로그래머스 > 카카오인턴2020 > 키패드 누르기 (Lv 1)
+- 1341 - 1528 (97) / 프로그래머스 > 카카오인턴2020 > 수식 최대화 (Lv 2)
+- 1559 - 1650 (X) / 프로그래머스 > 사칙연산 [[Lv 4]](https://programmers.co.kr/learn/courses/30/lessons/1843)
+- 프로그래머스 > 카카오인턴2021 > 표 편집 (Lv 3)
+
+
+
+
+
+#### [22.02.24](./220224.md)
+
+- (O) 프로그래머스 > 카카오인턴2020 > 보석 쇼핑 (Lv 3)
+- (X) 프로그래머스 > 카카오인턴2020 > 경주로 건설 (Lv 3)
+
+
+
+
+
+## [김은우 알고리즘](https://cafe.naver.com/startdevelopercareer?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30372458%2526page%3D1%2526menuid%3D2%2526boardtype%3DL%2526articleid%3D6%2526referrerAllArticles%3Dfalse)
+
+#### [22.02.26](./220226.md)
+
+- (O) 백준 > 완전탐색 > 차이를 최대로 [(실버 2)](https://www.acmicpc.net/problem/10819)
+- (O) 백준 > BFS/DFS > 단지번호 붙이기 [(실버 1)](https://www.acmicpc.net/problem/2667)
+- (X) 백준 > 구간합 > 구간합 구하기 5 [(실버 1)](https://www.acmicpc.net/problem/11660)
+
+
+
+#### [22.02.27](./220227.md)
+
+- (O) 백준 > DP > 1로 만들기 [(실버 3)](https://www.acmicpc.net/problem/1463)
+- (O) 백준 > DP > 동전 1 [(골드 5)](https://www.acmicpc.net/problem/2293)
+
+- (O) 백준 > DP > 동전 2 [(실버 1)](https://www.acmicpc.net/problem/2294)
+
+- 백준 > DP > 사회망 서비스 [(골드 3)](https://www.acmicpc.net/problem/2533)
+
