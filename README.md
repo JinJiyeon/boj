@@ -337,5 +337,64 @@
 
 - (O) 백준 > DP > 동전 2 [(실버 1)](https://www.acmicpc.net/problem/2294)
 
-- 백준 > DP > 사회망 서비스 [(골드 3)](https://www.acmicpc.net/problem/2533)
+- (X) 백준 > DP > 사회망 서비스 [(골드 3)](https://www.acmicpc.net/problem/2533)
+
+
+
+#### [22.02.28](./220228.md)
+
+- (O) 백준 > 이분탐색 > 숫자카드 [(실버 4)](https://www.acmicpc.net/problem/10815)
+- (O) 백준 > 이분탐색 > 피자굽기 [(골드 4)](https://www.acmicpc.net/problem/1756)
+- (O) 백준 > 다익스트라 > 최단경로 [(골드 5)](https://www.acmicpc.net/problem/1753)
+
+
+
+#### [22.03.01](./220301.md)
+
+- (O) 백준 > 블랙잭 [(브론즈 2)](https://www.acmicpc.net/problem/2798)
+- (O) 백준 > 이친수 [(실버 3)](https://www.acmicpc.net/problem/2193)
+- (ㅅ) 백준 > 이동하기 [(실버 1)](https://www.acmicpc.net/problem/11048)
+
+
+
+#### [22.03.04](./220304.md)
+
+- (O) 백준 > 평범한 배낭 [(골드 5)](https://www.acmicpc.net/problem/12865)
+- (X) 백준 > LCS [(골드 5)](https://www.acmicpc.net/problem/9251)
+- (O) 백준 > 미로탐색 [(실버 1)](https://www.acmicpc.net/problem/2178)
+- (X) 백준 > 가장 긴 증가하는 부분 수열 [(실버 2)](https://www.acmicpc.net/problem/11053)
+
+- 백준 > 가장 긴 증가하는 부분 수열 4 [(골드 4)](https://www.acmicpc.net/problem/14002)
+
+
+
+
+
+완전탐색 - 블랙잭
+
+bfs - 미로탐색
+
+dfs - 단지번호 붙이기
+
+구간합 - 구간합구하기5
+
+dp - 가장 긴 증가하는 부분 수열 4
+
+dp 트리 - 트리와 쿼리
+
+이분탐색 - 피자굽기
+
+다익스트라 - 최단경로
+
+플로이드와샬 - 플로이드
+
+위상정렬 - 
+
+
+
+
+
+
+
+
 
