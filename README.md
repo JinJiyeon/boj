@@ -337,7 +337,7 @@
 
 - (O) 백준 > DP > 동전 2 [(실버 1)](https://www.acmicpc.net/problem/2294)
 
-- (X) 백준 > DP > 사회망 서비스 [(골드 3)](https://www.acmicpc.net/problem/2533)
+- (X) 백준 > DP > 사회망 서비스 [(골드 3)](https://www.acmicpc.net/problem/2533) 🤪
 
 
 
@@ -364,21 +364,91 @@
 - (O) 백준 > 미로탐색 [(실버 1)](https://www.acmicpc.net/problem/2178)
 - (X) 백준 > 가장 긴 증가하는 부분 수열 [(실버 2)](https://www.acmicpc.net/problem/11053)
 
-- 백준 > 가장 긴 증가하는 부분 수열 4 [(골드 4)](https://www.acmicpc.net/problem/14002)
+- (X) 백준 > 가장 긴 증가하는 부분 수열 4 [(골드 4)](https://www.acmicpc.net/problem/14002)
 
 
 
+#### [22.03.07](./220307.md)
+
+- (O) 백준 > 개똥벌레 [(골드 5)](https://www.acmicpc.net/problem/3020)
+
+- (O) 백준 > 스타트와 링크 [(실버 2)](https://www.acmicpc.net/problem/14889)
+
+- (O) 백준 > 안전영역 [(실버 1)](https://www.acmicpc.net/problem/2468)
 
 
-완전탐색 - 블랙잭
 
-bfs - 미로탐색
+#### [22.03.08](./220308.md)
 
-dfs - 단지번호 붙이기
+- (X) 백준 > 로봇 조종하기 [(골드 1)](https://www.acmicpc.net/problem/2169)
 
-구간합 - 구간합구하기5
 
-dp - 가장 긴 증가하는 부분 수열 4
+
+#### [22.03.09](./220309.md)
+
+- (O) 백준 > 좋은수열 [(골드 4)](https://www.acmicpc.net/problem/2661) 
+- (ㅅ) 백준 > 아기상어 [(골드 3)](https://www.acmicpc.net/problem/16236)
+
+
+
+#### [22.03.10](./220310.md)
+
+- (X) 백준 > 구간나누기 [(골드 4)](https://www.acmicpc.net/problem/2228)
+- (ㅅ) 백준 > 적록색약 [(골드 5)](https://www.acmicpc.net/problem/10026)
+
+
+
+#### [22.03.12](./220312.md)
+
+- (ㅅ) 오늘의집 > 해시
+- (O) 오늘의집 > 스택
+- (X) 오늘의집 > dfs
+
+
+
+#### [22.03.15](./220315.md)
+
+- (X) 백준 > 보석줍기 [(골드 2)](https://www.acmicpc.net/problem/2208)
+
+
+
+#### [22.03.16](./220316)
+
+- DP
+- 백준 > 1로 만들기, 동전1, 동전2, 이친수, 이동하기
+
+
+
+#### [22.03.18](./220316.md)
+
+- DP
+- 백준 > 평범한 배낭, LCS, LIS
+
+
+
+#### [22.03.23](./220316.md)
+
+- DP
+- 백준 > LIS4, 욕심쟁이 판다, 로봇 조종하기
+
+
+
+#### [22.03.24](./220324.md)
+
+- DFS
+- 프로그래머스 > 타겟넘버, 네트워크, 단어변환, 여행경로
+
+
+
+완전탐색 - 연산자 끼워넣기
+
+bfs - 아기상어
+
+dfs - 안전영역
+
+구간합 - 소형기관차
+
+dp - 보석줍기
 
 dp 트리 - 트리와 쿼리
 
