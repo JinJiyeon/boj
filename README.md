@@ -476,7 +476,16 @@ dp 트리 - 트리와 쿼리
 
 
 
+## [kks 블로그](https://blog.naver.com/kks227/220764127766)
+
+#### 22.04.05
+
+- 로프 [(실버 4)](https://www.acmicpc.net/problem/2217)
 
 
 
+#### 22.04.13
 
+- 멀티탭 스케줄링 [(골드 1)](https://www.acmicpc.net/problem/1700)
+
+- ACM Craft [(골드 3)](https://www.acmicpc.net/problem/1005)
