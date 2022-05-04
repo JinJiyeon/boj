@@ -475,33 +475,3 @@ dp 트리 - 트리와 쿼리
 위상정렬 - 
 
 
-
-## [kks 블로그](https://blog.naver.com/kks227/220764127766)
-
-#### 22.04.05
-
-- 로프 [(실버 4)](https://www.acmicpc.net/problem/2217)
-
-
-
-#### 22.04.13
-
-- 멀티탭 스케줄링 [(골드 1)](https://www.acmicpc.net/problem/1700)
-- ACM Craft [(골드 3)](https://www.acmicpc.net/problem/1005)
-
-
-
-#### 22.04.14
-
-- 체스판 다시 칠하기 [(실버 5)](https://www.acmicpc.net/problem/1018)
-
-
-
-#### 22.04.15
-
-- 곱셈 [(실버 1)](https://www.acmicpc.net/problem/1629)
-- 트리의 부모찾기 [(실버 2)](https://www.acmicpc.net/problem/11725)
-- 전화번호 목록 [(골드 4)](https://www.acmicpc.net/problem/5052)
-- 미로탐색 [(실버 1)](https://www.acmicpc.net/problem/2178)
-- 공유기 설치 [(골드 5)](https://www.acmicpc.net/problem/2110)
-
